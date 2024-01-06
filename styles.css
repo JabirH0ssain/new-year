@@ -8,9 +8,10 @@
     
     width: 100vw;
     height: 100vh;
+    overflow: hidden;
 }
 
-.banner>img{
-    height: 100vh;
-    width: 100vw;
+.banner3{
+    height: 100%;
+    width: 100%;
 }
